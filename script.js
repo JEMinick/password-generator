@@ -117,9 +117,8 @@ function generatePassword() {
   var sLowerCase = "abcdefghijklmnopqrstuvwxyz";
   var sUpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   var sNumbers = "0123456789";
-  var sSpecialChars = "!@#$%^&*()-+=~`,./<>?";
-  
-  var iNextPwdReqIdx=0;
+  var sSpecialChars = " !@#$%^&'()*-+=~`,./:;<>?[]_{|}\"\\"; // plus: 0x22:" 0x5C:\
+  var iNextPwdReqIdx = 0;
   var iMaxPwdReqs = aUserPwdReqs.length;
   
   while( sNewPwd.length < iUserPwdLen ) {
