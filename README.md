@@ -3,7 +3,7 @@
    ## My online password generator can be found here:
    [Ed's Password Generator](https://jeminick.github.io/password-generator/)
    ## My gitHub for this project:
-   [Project GitHub](https://jeminick.github.io/password-generator/)
+   [Project GitHub](https://github.com/JEMinick/password-generator)
 
 # Description:
 
