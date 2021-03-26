@@ -15,7 +15,7 @@ The requirements specified by the end user will include:
 
 This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will also have a clean, polished and responsive user interface that adapts to multiple screen sizes.
 
-## Page preview:
+## Page preview. This is an example of a password created with a length of 128 and only using all possible special characters.  I challenge you to remember this one!
 ![Screen shot:](./images/password-generator.png?raw=true)
 
 # License
