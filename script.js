@@ -106,7 +106,7 @@ function getRandomInt(max) {
     nRandomValue = Math.random( max );
     iRandomFloorValue = Math.floor( nRandomValue * Math.floor(max) );
   }
-  console.log( "Random number generated is [", nRandomValue, "] with a floor() of [", iRandomFloorValue, "]" );
+  console.log( "Random number generated is [", nRandomValue, "] with a floor(" + max + ") generated of: [", iRandomFloorValue, "]" );
   return( iRandomFloorValue );
 }
 
