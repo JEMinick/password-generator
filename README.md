@@ -19,4 +19,4 @@ This app will run in the browser and will feature dynamically updated HTML and C
 ![Screen shot:](./images/password-generator.png?raw=true)
 
 # License
-© 2021 JEM Services, LLC
+[License Info](./LICENSE)
